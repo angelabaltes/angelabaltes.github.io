@@ -37,7 +37,7 @@ A mini-project to clean and normalize U.S. Geological Survey (USGS) data and mer
 This project provided a visualization of poverty in The United States by state and county for year 2017. The purpose of this is to demonstrate how to communicate results in a visual format to be easily understood by a wider range of audiences.
 
 ---
-
+This repository was forked (then detached) from the Minimal Mistakes Jekyll Theme, which is © 2016 Michael Rose and released under the MIT License.
 
 # Contact
 ### [Email](mailto:angelakbaltes@gmail.com) 
