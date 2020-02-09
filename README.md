@@ -1,31 +1,44 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+<p align="center">
+  <img  src="images/Angela_Baltes_Resized.jpg">
+</p>
+Hello, my name is Angela and welcome to my portfolio. I am a Data Scientist and Biomedical Informatics PhD candidate with Rutgers University under the advisement of Dr. Fredrick Coffman, Dr. Shankar Srinivasan and Dr. Memory Ndanga. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes. 
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+*Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources. 
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-# Instructions
+# Projects
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+### [Crime Analysis](http://htmlpreview.github.io/?https://github.com/angelabaltes/angelabaltes.github.io/blob/master/Metropolitan%20City%20Crime%20Analysis/Metropolitan%20Crime_10_11_19.html)
+Supervised Learning: Police Incidents within various census tracts in Albuquerque, New Mexico were predicted based upon factors such as median age and income using supervised learning and statistical approaches. This analysis can be beneficial for law enforcement to gauge where to potentially expect calls to originate from. 
 
-See more info at https://academicpages.github.io/
+---
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+### [Boston Housing](http://htmlpreview.github.io/?https://github.com/angelabaltes/angelabaltes.github.io/blob/master/Boston%20Housing/boston_housing.html)
+Supervised Learning: The value of a home in the Boston real estate market was predicted and identified using supervised learning and statistical analysis tools. The best price a client can sell their home was identified. This type of analysis would be useful for those that work in real estate to aid clients in finding a suitable selling price based on objective measures. 
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+---
 
-# Changelog -- bugfixes and enhancements
+### [Customer Segmentation](http://htmlpreview.github.io/?https://github.com/angelabaltes/angelabaltes.github.io/blob/master/Customer%20Segmentation/customer_segments_10_11_19.html)
+Unsupervised Learning: This project analyzed customer spending using unsupervised learning techniques for further insight about customer base. This analysis would be useful in understanding the needs of customers and applying resources to meet their needs in a more prompt manner. 
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+---
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+### [Finding Donors](http://htmlpreview.github.io/?https://github.com/angelabaltes/angelabaltes.github.io/blob/master/Finding%20Donors/Finding_Donors_10_11_19.html)
+Supervised Learning: A model was designed to predict whether an individual earns more than $50,000 annually to identify potential donors for an organization. This type of analysis would be useful for non-profits or organizations that rely on donations as a source of revenue. 
+
+---
+
+### [Data Wrangling](http://htmlpreview.github.io/?https://github.com/angelabaltes/angelabaltes.github.io/blob/master/Data%20Cleansing/Data%20Cleansing%20Project.html)
+A mini-project to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling (data pre-processing) that is typical before analysis. 
+
+---
+
+### [Poverty 2017](http://htmlpreview.github.io/?https://github.com/angelabaltes/angelabaltes.github.io/blob/master/Poverty%202017/Poverty%20in%20The%20United%20States_2017_10_11_19_.html)
+This project provided a visualization of poverty in The United States by state and county for year 2017. The purpose of this is to demonstrate how to communicate results in a visual format to be easily understood by a wider range of audiences.
+
+---
+
+
+# Contact
+### [Email](mailto:angelakbaltes@gmail.com) 
+### [Linkedin](https://www.linkedin.com/in/angelabaltes/)
