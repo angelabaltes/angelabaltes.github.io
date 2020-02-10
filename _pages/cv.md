@@ -21,13 +21,13 @@ Education
 |       |                                                |
 |-------|:----------------------------------------------:|
 |01/2021|**Doctor of Philosophy, Biomedical Informatics**|
-|	|Rutgers University, Newark, NJ               |
-|05/2014|**Master of Science, Information Technology**|
-|	|Azusa Pacific University, Azusa, CA          |
-|12/2012|**Master of Public Administration**          |
-|	 |University of New Mexico, Albuquerque, NM   |
-|12/2008|**Bachelor of Arts, Criminology**            |
-|	|University of New Mexico, Albuquerque, NM    |
+|	|Rutgers University, Newark, NJ                  |
+|05/2014|**Master of Science, Information Technology**   |
+|	|Azusa Pacific University, Azusa, CA             |
+|12/2012|**Master of Public Administration**             |
+|	 |University of New Mexico, Albuquerque, NM      |
+|12/2008|**Bachelor of Arts, Criminology**               |
+|	|University of New Mexico, Albuquerque, NM       |
 
 Employment
 ======
