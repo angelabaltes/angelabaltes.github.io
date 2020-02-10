@@ -174,19 +174,12 @@ kramdown:
 
 # Collections
 collections:
-  contact:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -212,6 +205,15 @@ defaults:
   - scope:
       path: ""
       type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
     values:
       layout: single
       author_profile: true
