@@ -1,4 +1,3 @@
-[Download paper here](http://angelabaltes.github.io/files/PPMO.pdf)
 ---
 title: "Personalized Prognostic Models for Oncology: A Machine Learning Approach"
 collection: publications
@@ -18,5 +17,5 @@ venue: 'arXiv.org'
 citation: 'Dooling D, Kim A, McAneny B, et al. (2016). &quot;Personalized Prognostic Models for Oncology: A Machine Learning Approach.&quot; <i>arXiv.org</i>. 1606(07369).'
 ---
 
-
+[Download paper here](http://angelabaltes.github.io/files/PPMO.pdf)
 
