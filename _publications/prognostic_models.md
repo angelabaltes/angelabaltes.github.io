@@ -14,7 +14,7 @@ provided by the extremely high levels of agreement between the random forest and
 neural network models predictions on the 6, 12, and 60 month binary classifiers.'
 date: 2016-06-22
 venue: 'arXiv.org'
-paperurl: 'http://angelabaltes.github.io/files/PPMO.pdf'
+
 citation: 'Dooling D, Kim A, McAneny B, et al. (2016). &quot;Personalized Prognostic Models for Oncology: A Machine Learning Approach.&quot; <i>arXiv.org</i>. 1606(07369).'
 ---
 
