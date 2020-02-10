@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Angela. I am a PhD candidate in Biomedical Informatics and Data Scientist. 
+Hi, my name is Angela Baltes.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Biomedical Informatics PhD candidate with [Rutgers University](https://www.rutgers.edu/").
+
+My research with Rutgers University involves analysis of cardiovascular medical device failures and their effects on patients. My advisement committee consists of: [Dr. Frederick Coffman](https://apps.shp.rutgers.edu/projects/facultyLocator/profile1.cfm?RUID=coffmafd"), [Dr. Shankar Srinivasan](https://apps.shp.rutgers.edu/projects/facultyLocator/profile1.cfm?RUID=srinivsh"), and [Dr. Memory Ndanga](https://apps.shp.rutgers.edu/projects/facultyLocator/profile1.cfm?RUID=ndangame"). I am employed by The University of New Mexico in the [Office of Institutional Analytics](http://oia.unm.edu/")
+
+This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
+*Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources..
 
 
