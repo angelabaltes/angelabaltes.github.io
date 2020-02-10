@@ -14,7 +14,5 @@ I am a Biomedical Informatics PhD candidate with [Rutgers University](https://ww
 
 My research with Rutgers University involves analysis of cardiovascular medical device failures and their effects on patients. My advisement committee consists of: [Dr. Frederick Coffman](https://apps.shp.rutgers.edu/projects/facultyLocator/profile1.cfm?RUID=coffmafd"), [Dr. Shankar Srinivasan](https://apps.shp.rutgers.edu/projects/facultyLocator/profile1.cfm?RUID=srinivsh"), and [Dr. Memory Ndanga](https://apps.shp.rutgers.edu/projects/facultyLocator/profile1.cfm?RUID=ndangame"). I am employed by The University of New Mexico in the [Office of Institutional Analytics](http://oia.unm.edu/")
 
-This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
-*Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources..
 
 
