@@ -8,15 +8,9 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Null"
-    url: /contact/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-  
-  - title: "Contact"
+    - title: "Contact"
     url: /contact/
