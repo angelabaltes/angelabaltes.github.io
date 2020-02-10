@@ -16,6 +16,7 @@ redirect_from:
 Education
 ======
 
+
 |       |                                                |
 |-------|:----------------------------------------------:|
 |01/2021|**Doctor of Philosophy, Biomedical Informatics**|
@@ -29,6 +30,8 @@ Education
 
 Employment
 ======
+
+
 * 2019-Present:	Institutional Researcher <br />
   *University of New Mexico, Office of Institutional Analytics, Albuquerque, NM* <br />
 	Description: Provided analytical expertise to the university influencing initiatives, strategic planning and resource alignment. Worked on a collaborative team of researchers that developed interactive tools to aid in transparency and leveraged actionable data for dissemination.
