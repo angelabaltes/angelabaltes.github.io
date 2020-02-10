@@ -9,32 +9,77 @@ redirect_from:
 
 {% include base_path %}
 
+<u><a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
+<h1 class="western" align="center"><b>Angela Baltes</b></h1>
+<p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
+<p style="line-height: 1.5;" align="center"><span>| <a href="mailto:angelakbaltes@gmail.com">Email </a>|  
+<a href="https://angelabaltes.github.io">Website</a> | </a>
+ 
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+|         |                                            |
+|---------|:------------------------------------------:|
+|01/2021	|**Doctor of Philosophy, Biomedical Informatics**|
+|	        |Rutgers University, Newark, NJ              |
+|05/2014	|**Master of Science, Information Technology**   |
+|	        |Azusa Pacific University, Azusa, CA         |
+|12/2012	|**Master of Public Administration**            |
+|	        |University of New Mexico, Albuquerque, NM   |
+|12/2008	|**Bachelor of Arts, Criminology**               |
+|	        |University of New Mexico, Albuquerque, NM   
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Employment
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019-Present:	Institutional Researcher <br />
+  *University of New Mexico, Office of Institutional Analytics, Albuquerque, NM* <br />
+	Description: Provided analytical expertise to the university influencing initiatives, strategic planning and resource alignment. Worked on a collaborative team of researchers that developed interactive tools to aid in transparency and leveraged actionable data for dissemination.
+
+* 2019-2020:	Data Science Intern		<br />
+	*Office of The Director of National Intelligence, Albuquerque, NM* <br />
+  Description: Worked on a team of data scientists to develop effective visualizations to generate insight from datasets. 
+		
+* 2017-2018:	Senior Data Analyst		<br />
+	*RESPEC/DataBasis, Albuquerque, NM* <br />
+	Description: Designed geolocation tools from combined datasets to provide visual and quantitative assessments of patient disparities
+
+* 2018-2018:	Health Informatics Intern	<br />
+	*Centers for Disease Control and Prevention, Albuquerque, NM* <br />
+  Description: Optimized digital metrics code base to influence decision making and make recommendations at an enterprise level. The goal was to disseminate information in an effective manner to patrons seeking health information from The CDC. 
+	
+* 2016-2017:	Quality Analyst <br />
+	*Lovelace Medical Center, Albuquerque, NM* <br />
+  Description: Performed quality process improvement regarding infectious disease and hospital operations to implement solutions and evaluate the effectiveness of interventions.
+	
+* 2015-2016:	Health Data Analyst <br />
+	*Innovative Oncology Business Solutions, Albuquerque, NM* <br />
+	Description: Delivered tools that were essential to improve the value in data mining and reporting to inform the status of business, oncology research, patient utilization and cost of care.
+
+* 2014-2015:	Reporting Analyst	<br />
+*The Kemtah Group, Albuquerque, NM* <br />
+	Delivered analyses that were necessary in meeting performance metrics and providing actionable information to improve processes. Participated in collaborative activities for continuous improvement and value discovery.
+
+* 2013-2014:	Data Analyst <br />
+*Joerns Healthcare, Chatsworth, CA* <br />
+	Description: Developed data-driven solutions and reports that provided status of delivered medical equipment, performance metrics, and customer satisfaction. Monitored sensitive information and provided quality assurance.
+
+* 2004-2010:	Student Intern <br />
+*Sandia National Laboratories, Albuquerque, NM* <br />
+	Description: Provided analyses, technical support, and software engineering expertise as a student employee to several departments within Sandia National Laboratories.		
+
+Honors/Awards
+======
+
+Certificates
+======
+
+Research/Projects
+======
+**Analyzing Cardiac Medical Devices with a Machine Learning Approach** <br />
+This project seeks to leverage information contained within unstructured clinical text of
+medical device failures to develop a machine learning approach for proper identification and classification of cardiac failures. 
 
 Publications
 ======
@@ -42,18 +87,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Professional Affiliations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Association for Computing Machinery
+Membership ID: 6220607
+
+American Medical Informatics Association
+Membership ID: 173936
+
+American Society for Quality
+Membership ID: 65264125
+
+    
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Interests/Skills
+======
+* Python
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
