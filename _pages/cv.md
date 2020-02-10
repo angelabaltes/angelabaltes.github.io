@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-
+ <p align="center">Angela Baltes<br>
+ <p align="center">Curriculum Vitae</p>
+ <p align="center">Phone | Email | Github</p> 
  
 
  
