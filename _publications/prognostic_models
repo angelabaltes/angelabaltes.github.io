@@ -1,14 +1,14 @@
 ---
 title: "Personalized Prognostic Models for Oncology: A Machine Learning Approach."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/pronostic_models
 excerpt: 'We have applied a little-known data transformation to subsets of the Surveillance,
 Epidemiology, and End Results (SEER) publically available data of the National Cancer
 Institute (NCI) to make it suitable input to standard machine learning classifiers.'
 date: 2016-06-22
 venue: 'arXiv.org'
 paperurl: 'https://arxiv.org/pdf/1606.07369.pdf'
-citation: Dooling D, Kim A, McAneny B, et al. (2016). "Personalized Prognostic Models for Oncology: A Machine Learning Approach." <i>arXiv.org</i>. 1606.07369
+citation: Dooling D, Kim A, McAneny B, et al. (2016). "Personalized Prognostic Models for Oncology: A Machine Learning Approach." <i>arXiv.org</i>. 1606(07369)
 Search...
 Help | Advanced Search
 
@@ -17,3 +17,19 @@ Help | Advanced Search
 [Download paper here](https://arxiv.org/pdf/1606.07369.pdf)
 
 Dooling D, Kim A, McAneny B, et al. (2016). "Personalized Prognostic Models for Oncology: A Machine Learning Approach." <i>arXiv.org</i>. 1606.07369
+
+---
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
