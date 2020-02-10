@@ -217,10 +217,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _contact
   - scope:
       path: ""
-      type: publications
+      type: contact
     values:
       layout: single
       author_profile: true
