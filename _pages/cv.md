@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
-<h1 class="western" align="center"><b>Angela Baltes</b></h1>
-<p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span>| <a href="mailto:angelakbaltes@gmail.com">Email </a>|  
-<a href="https://angelabaltes.github.io">Website</a> | </a>
+
  
 
 
