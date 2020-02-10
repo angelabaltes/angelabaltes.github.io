@@ -70,9 +70,64 @@ Employment
 
 Honors/Awards
 ======
+2016	Scholarship Award
+	Alice L. Haltom Educational Fund
+
+2008	Scholarship Award
+	Sallie Mae Educational Fund
+
+2008	National Scholarship Award
+	American Criminal Justice Association
+
+2007	Honor Society
+	Alpha Kappa Delta Honor Society Induction
+
+2006	Scholarship Award
+	National Science Foundation
+
 
 Certificates
 ======
+
+2019	Machine Learning Nanodegree
+	Udacity
+
+2019	Data Scientist Nanodegree
+	Udacity
+
+2019	Complete Python Bootcamp
+	Udemy
+
+2019	Learning Python for Data Analysis
+	Udemy
+
+2019	NLP Natural Language Processing with Python
+	Udemy
+
+2019	Data Analysis with Python
+	Cognitive Class
+
+2019	Disease Clusters
+	Coursera
+
+2019	Python for Data Science and Machine Learning
+	Udemy
+
+2019	Six Sigma Green Belt Specialization
+	Coursera
+
+2019	AI for Everyone
+	Coursera
+
+2019	Epidemiology for Public Health Specialization
+	Coursera
+
+2018	Epidemiology: The Basic Science of Public Health
+	Coursera
+
+2015	Certified Quality Process Analyst
+	American Society for Quality
+
 
 Research/Projects
 ======
@@ -95,18 +150,19 @@ American Medical Informatics Association
 Membership ID: 173936
 
 American Society for Quality
-Membership ID: 65264125
-
-    
-Service and Leadership
-======
-* Currently signed in to 43 different slack teams
+Membership ID: 65264125   
 
 Interests/Skills
 ======
-* Python
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Programming
+* R Programming
+* Data Visualization
+* Data Science
+* Data Analysis
+  * Machine Learning
+  * Natural Language Processing
+  * Text Mining
+* Informatics
+  * Public Health Informatics
+  * Surveillance
+  * Clinical Research/Operations
