@@ -2,15 +2,21 @@
 main:
   - title: "Portfolio"
     url: /portfolio/
-    
-   - title: "CV"
-    url: /cv/
+
+  - title: "CV"
+    url: /cv/    
     
   - title: "Publications"
-    url: /publications/  
-       
+    url: /publications/
+
+  - title: "Null"
+    url: /contact/
+        
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "CV"
+    url: /cv/
+  
   - title: "Contact"
     url: /contact/
