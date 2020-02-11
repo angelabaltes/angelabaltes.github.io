@@ -17,8 +17,8 @@ Education
 ======
 
 
-|    |                                            |
-|----|:------------------------------------------:|
+|||
+|---|:-:|
 |01/2021|**Doctor of Philosophy, Biomedical Informatics**|
 |	|Rutgers University, Newark, NJ                  |
 |05/2014|**Master of Science, Information Technology**   |
@@ -27,6 +27,7 @@ Education
 |	 |University of New Mexico, Albuquerque, NM      |
 |12/2008|**Bachelor of Arts, Criminology**               |
 |	|University of New Mexico, Albuquerque, NM       |
+  	
 
 Employment
 ======
