@@ -8,7 +8,6 @@ Institute (NCI) to make it suitable input to standard machine learning classifie
 date: 2016-06-22
 venue: 'arXiv.org'
 
-citation: 'Dooling D, Kim A, McAneny B, et al. (2016). &quot;Personalized Prognostic Models for Oncology: A Machine Learning Approach.&quot; <i>arXiv.org</i>. 1606(07369).'
 ---
 
 [Download paper here](http://angelabaltes.github.io/files/PPMO.pdf)
@@ -23,5 +22,7 @@ classifiers, the 18 resulting classifiers have AUC values ranging from .765 to .
 Further evidence that the models have generalized well from the training data is
 provided by the extremely high levels of agreement between the random forest and
 neural network models predictions on the 6, 12, and 60 month binary classifiers.
+
+citation: 'Dooling D, Kim A, McAneny B, et al. (2016). &quot;Personalized Prognostic Models for Oncology: A Machine Learning Approach.&quot; <i>arXiv.org</i>. 1606(07369).'
 
 
