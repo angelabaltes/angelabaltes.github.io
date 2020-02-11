@@ -26,6 +26,6 @@ neural network models predictions on the 6, 12, and 60 month binary classifiers.
 
 
 
-Recommended citation: 'Dooling D, Kim A, McAneny B, et al. (2016). &quot;Personalized Prognostic Models for Oncology: A Machine Learning Approach.&quot; <i>arXiv.org</i>. 1606(07369).'
+Recommended citation: Dooling D, Kim A, McAneny B, et al. (2016). &quot;Personalized Prognostic Models for Oncology: A Machine Learning Approach.&quot; <i>arXiv.org</i>. 1606(07369).
 
 
