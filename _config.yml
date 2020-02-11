@@ -221,7 +221,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: 
       type: portfolio
     values:
       layout: single
