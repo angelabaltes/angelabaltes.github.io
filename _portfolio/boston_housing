@@ -5,4 +5,6 @@ collection: portfolio
 ---
 
 
-<a href='/portfolio/boston_housing.html'></a>
+<a href="/portfolio/boston_housing.html"></a>
+
+<a href="boston_housing.html">portfolio</a>
