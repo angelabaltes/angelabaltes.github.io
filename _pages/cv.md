@@ -17,8 +17,8 @@ Education
 ======
 
 
-|       |                                                |
-|-------|:----------------------------------------------:|
+|    |                                            |
+|----|:------------------------------------------:|
 |01/2021|**Doctor of Philosophy, Biomedical Informatics**|
 |	|Rutgers University, Newark, NJ                  |
 |05/2014|**Master of Science, Information Technology**   |
