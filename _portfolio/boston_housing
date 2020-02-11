@@ -4,4 +4,5 @@ excerpt: "Supervised Learning: The value of a home in the Boston real estate mar
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
+<img src='/portfolio/boston_housing.html'>"
