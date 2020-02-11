@@ -221,13 +221,13 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: 
+      path: ""
       type: portfolio
     values:
       layout: single
       author_profile: true
       share: false
-      comment: true
+      comment: false
  
 # Sass/SCSS
 sass:
