@@ -1,6 +1,6 @@
 ---
 title: "Data Wrangling"
-excerpt: "A mini-project to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling (data pre-processing) that is typical before analysis. <br/><a href='/portfolio/data_wrangling.html><img src='/images/data_wrang_500_300.jpg'>"
+excerpt: "A mini-project to clean and normalize U.S. Geological Survey (USGS) data and merged with a data obtained from The Indian Health Service. The purpose of this project is to demonstrate data wrangling (data pre-processing) that is typical before analysis. <br/><a href='/portfolio/data_wrangling.html'><img src='/images/data_wrang_500_300.jpg'>"
 collection: portfolio
 ---
 
