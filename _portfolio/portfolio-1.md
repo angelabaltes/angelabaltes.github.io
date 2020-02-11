@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Crime Analysis"
+excerpt: "Supervised Learning: Police Incidents within various census tracts in Albuquerque, New Mexico were predicted based upon factors such as median age and income using supervised learning and statistical approaches. This analysis can be beneficial for law enforcement to gauge where to potentially expect calls to originate from.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
