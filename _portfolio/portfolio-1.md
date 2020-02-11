@@ -1,7 +1,0 @@
----
-title: "Crime Analysis"
-excerpt: "Supervised Learning: Police Incidents within various census tracts in Albuquerque, New Mexico were predicted based upon factors such as median age and income using supervised learning and statistical approaches. This analysis can be beneficial for law enforcement to gauge where to potentially expect calls to originate from.<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
