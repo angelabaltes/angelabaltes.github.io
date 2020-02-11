@@ -9,4 +9,4 @@ author_profile: true
 
 * Phone: (505) 336-0554
 * [Email](mailto:angelakbaltes@gmail.com")
-* [Linkedin](https://www.linkedin.com/in/angelabaltes")
+* [Linkedin](https://www.linkedin.com/in/angelabaltes/")
