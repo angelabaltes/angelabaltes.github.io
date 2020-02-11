@@ -227,7 +227,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comment: false
+      comment: true
  
 # Sass/SCSS
 sass:
