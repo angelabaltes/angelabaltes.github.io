@@ -16,6 +16,6 @@ My research with Rutgers University involves analysis of cardiovascular medical 
 
 Before my current role, I have worked primarily in health-focused environments providing analytic expertise to improve patient outcomes. My latest health project involved the identification of rural communities in New Mexico that are susceptible to disease, and provide alternatives to emergency department usage. 
 
-I am truly passionate and curious about all things data, and spend my time studying and tinkering with datasets I find interesting. My [portfolio](portfolio.html)is filled with projects completed on my own time. My goal as a professional is to provide valuable information that will help others. 
+I am truly passionate and curious about all things data, and spend my time studying and tinkering with datasets I find interesting. My [portfolio](portfolio.html) is filled with projects completed on my own time. My goal as a professional is to provide valuable information that will help others. 
 
 Please feel to look around and reach out to me. 
