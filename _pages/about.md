@@ -18,4 +18,4 @@ Before my current role, I have worked primarily in health-focused environments p
 
 I am truly passionate and curious about all things data, and spend my time studying and tinkering with datasets I find interesting. My [portfolio](portfolio.html) is filled with projects completed on my own time. My goal as a professional is to provide valuable information that will help others. 
 
-Please feel to look around and reach out to me. 
+Please feel to look around and reach out to me!
