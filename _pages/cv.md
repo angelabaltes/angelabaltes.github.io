@@ -16,7 +16,7 @@ Education
 ======
 
 
-01/2021 <br /> 
+08/2020 <br /> 
 **Doctor of Philosophy, Biomedical Informatics**   
           Rutgers University, Newark, NJ <br /> 
 	  
