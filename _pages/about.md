@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Angela Baltes | Data Science"
+excerpt: "Angela Baltes is a Data Scientist & Biomedical Informatics PhD candidate."
 author_profile: true
 redirect_from: 
   - /about/
