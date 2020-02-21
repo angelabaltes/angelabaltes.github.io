@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Download PDF of CV here](http://angelabaltes.github.io/files/CV_Baltes.pdf)
+[Download PDF of CV here](https://angelabaltes.github.io/files/CV_Baltes.pdf)
  
 
 
