@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Angela Baltes-Data Scientist"
-excerpt: "Angela Baltes is a Data Scientist & Biomedical Informatics PhD candidate."
+excerpt: "Internet home of Angela Baltes. Data Scientist. Data Storyteller. Biomedical Informatics PhD candidate."
 author_profile: true
 redirect_from: 
   - /about/
