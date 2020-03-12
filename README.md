@@ -13,11 +13,6 @@ Supervised Learning: Police Incidents within various census tracts in Albuquerqu
 
 ---
 
-### Boston Housing
-Supervised Learning: The value of a home in the Boston real estate market was predicted and identified using supervised learning and statistical analysis tools. The best price a client can sell their home was identified. This type of analysis would be useful for those that work in real estate to aid clients in finding a suitable selling price based on objective measures. 
-
----
-
 ### Customer Segmentation
 Unsupervised Learning: This project analyzed customer spending using unsupervised learning techniques for further insight about customer base. This analysis would be useful in understanding the needs of customers and applying resources to meet their needs in a more prompt manner. 
 
