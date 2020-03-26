@@ -155,7 +155,10 @@ American Medical Informatics Association
 Membership ID: 173936
 
 American Society for Quality
-Membership ID: 65264125   
+Membership ID: 65264125
+
+Association for Institutional Research
+Membership ID: 103304
 
 Interests/Skills
 ======
