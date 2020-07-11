@@ -1,7 +1,7 @@
 <p align="center">
     <img  src="images/baltes_small_photo.jpg">
 </p>
-Hello, my name is Angela and welcome to my portfolio. I am a Data Scientist and Biomedical Informatics PhD candidate with Rutgers University under the advisement of Dr. Frederick Coffman, Dr. Shankar Srinivasan and Dr. Memory Ndanga. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes. 
+Hello, my name is Angela and welcome to my portfolio. I am a Data Scientist and Informaticist. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes. 
 
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources. 
 
