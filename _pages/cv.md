@@ -37,7 +37,7 @@ Employment
 ======
 
 
-* 2019-Present:	Institutional Researcher <br />
+* 2019-Present:	Institutional Data Scientist <br />
   *University of New Mexico, Office of Institutional Analytics, Albuquerque, NM* <br />
 	Description: Provided analytical expertise to the university influencing initiatives, strategic planning and resource alignment. Worked on a collaborative team of researchers that developed interactive tools to aid in transparency and leveraged actionable data for dissemination.
 
@@ -75,7 +75,10 @@ Employment
 
 Honors/Awards
 ======
-2016	Scholarship Award
+2020	Scholarship Award
+	Alice L. Haltom Educational Fund
+	
+2016 	Scholarship Award
 	Alice L. Haltom Educational Fund
 
 2008	Scholarship Award
