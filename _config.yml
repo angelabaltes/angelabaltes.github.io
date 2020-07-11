@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Angela Baltes"
 title_separator          : "-"
 name                     : &name "Angela Baltes"
-description              : &description "Data Scientist & Biomedical Informatics PhD Candidate"
+description              : &description "Data Scientist & Informaticist"
 url                      : https://angelabaltes.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "angelabaltes/angelabaltes.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Angela Baltes"
   avatar           : "Baltes Angela_new.jpg"
-  bio              : "Data Scientist & Biomedical Informatics PhD Candidate"
+  bio              : "Data Scientist & Informaticist"
   location         : "Albuquerque, NM"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=r0IcjjwAAAAJ&hl=en"
