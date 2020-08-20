@@ -172,7 +172,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Collections
 collections:
   publications:
@@ -240,6 +239,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
+      comment: true
       
 # Sass/SCSS
 sass:
