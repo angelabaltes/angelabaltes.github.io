@@ -1,6 +1,5 @@
 ---
 collection: talks
-permalink: /talks/hods
 
 ---
 **Humans of Data Science**
