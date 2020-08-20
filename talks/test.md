@@ -5,5 +5,5 @@ type: "talks"
 permalink: /talks/
 
 ---
-<br/>(https://github.com/angelabaltes/angelabaltes.github.io/blob/master/images/Humans%20of%20Data%20Science_500_300.jpg)](https://www.youtube.com/watch?v=irdpwyfJqPU)"
+[![alt text](http://example.com/exampl.png)](https://www.youtube.com/watch?v=irdpwyfJqPU)
 
