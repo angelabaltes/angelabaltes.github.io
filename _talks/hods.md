@@ -1,5 +1,7 @@
 ---
+title: "Humans of Data Science"
 collection: talks
+type: Talk
 
 ---
 **Humans of Data Science**
