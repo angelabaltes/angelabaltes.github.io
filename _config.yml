@@ -242,7 +242,8 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
+      comments: false
       
 # Sass/SCSS
 sass:
