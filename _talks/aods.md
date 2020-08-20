@@ -1,7 +1,6 @@
 ---
 title: "Artists of Data Science"
 collection: talks
-type: "Talks"
 
 ---
 
