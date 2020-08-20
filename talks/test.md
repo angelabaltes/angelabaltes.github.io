@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Humans of Data Science"
 collection: talks
 type: "talks"
 permalink: /talks/
