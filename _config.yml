@@ -45,7 +45,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-read_more                : "enabled" # if enabled, adds a "read more" link to excerpts 
+read_more                : "disabled" # if enabled, adds a "read more" link to excerpts 
 future                   : true
 
 # SEO Related
@@ -234,13 +234,13 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comment: false
+      comments: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single #changed from layout talk to single
       author_profile: true
       share: false
       comments: false
