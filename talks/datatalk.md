@@ -1,7 +1,7 @@
 ---
 title: "Experian DataTalk"
 collection: talks
-type: "talks"
+type: "Talks"
 permalink: /talks/datatalk
 
 ---
