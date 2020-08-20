@@ -5,4 +5,4 @@ permalink: /talks/hods
 ---
 **Humans of Data Science**
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![Humans of Data Science](https://github.com/angelabaltes/angelabaltes.github.io/blob/master/images/Humans%20of%20Data%20Science_500_300.png)](https://www.youtube.com/watch?v=irdpwyfJqPU")
