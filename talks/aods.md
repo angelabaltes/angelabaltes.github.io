@@ -1,7 +1,7 @@
 ---
 title: "Artists of Data Science"
 collection: talks
-type: "talks"
+type: "Talks"
 permalink: /talks/aods
 
 ---
