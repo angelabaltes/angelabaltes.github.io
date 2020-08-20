@@ -3,8 +3,6 @@ title: "Test"
 collection: talks
 type: "Test"
 permalink: /talks/humans of data science
-venue: "Test"
-date: 2010-02-25
 excerpt: "This is a test."
 ---
 
