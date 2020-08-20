@@ -1,5 +1,5 @@
 ---
-title: "Personalized Prognostic Models for Oncology: A Machine Learning Approach"
+title: "Experian DataTalk"
 collection: talks
 permalink: /talks/datatalk
 excerpt: 'We have applied a little-known data transformation to subsets of the Surveillance,
