@@ -1,7 +1,7 @@
 ---
 title: "Personalized Prognostic Models for Oncology: A Machine Learning Approach"
 collection: talks
-permalink: /publication/datatalk
+permalink: /talks/datatalk
 excerpt: 'We have applied a little-known data transformation to subsets of the Surveillance,
 Epidemiology, and End Results (SEER) publically available data of the National Cancer
 Institute (NCI) to make it suitable input to standard machine learning classifiers.'
