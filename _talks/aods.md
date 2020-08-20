@@ -1,5 +1,5 @@
 ---
-collection: talks
+type: talks
 
 ---
 **Artists of Data Science**
