@@ -2,7 +2,7 @@
 title: "Experian DataTalk"
 collection: talks
 type: "talks"
-permalink: /talks/
+permalink: /talks/datatalk
 
 ---
 
