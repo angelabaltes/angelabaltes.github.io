@@ -5,5 +5,4 @@ type: "talks"
 permalink: /talks/
 
 ---
-[!Humans of Data Science](https://github.com/angelabaltes/angelabaltes.github.io/blob/master/images/Humans%20of%20Data%20Science_500_300.png)](https://www.youtube.com/watch?v=irdpwyfJqPU)
-
+[![Humans of data Science](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=irdpwyfJqPU)
