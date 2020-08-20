@@ -2,7 +2,7 @@
 title: "Humans of Data Science"
 permalink: /talks/hods
 collection: talks
-type: Talk
+type: "Talk"
 
 ---
 
