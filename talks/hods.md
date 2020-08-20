@@ -2,7 +2,7 @@
 title: "Humans of Data Science"
 collection: talks
 type: "talks"
-permalink: /talks/
+permalink: /talks/hods
 
 ---
 In Humans of Data Science I give information about myself. 
