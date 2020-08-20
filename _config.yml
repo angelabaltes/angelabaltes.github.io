@@ -85,7 +85,7 @@ author:
   location         : "Albuquerque, NM"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=r0IcjjwAAAAJ&hl=en"
-  email            : "angelakbaltes@gmail.com"
+  email            : #"angelakbaltesatgmail.com"
   researchgate     : "https://www.researchgate.net/profile/Angela_Baltes"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "angelabaltes"
-  medium           : "@angelabaltes"
+  medium           : #"@angelabaltes"
   orcid            : "0000-0001-7888-8933"
   pinterest        :
   soundcloud       :
