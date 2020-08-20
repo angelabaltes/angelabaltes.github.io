@@ -2,7 +2,7 @@
 title: "Artists of Data Science"
 collection: talks
 type: "talks"
-permalink: /talks/
+permalink: /talks/aods
 
 ---
 
