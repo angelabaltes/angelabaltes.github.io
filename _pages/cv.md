@@ -41,8 +41,8 @@ Employment
   *University of New Mexico, Office of Institutional Analytics, Albuquerque, NM* <br />
 	Description: Provided analytical expertise to the university influencing initiatives, strategic planning and resource alignment. Worked on a collaborative team of researchers that developed interactive tools to aid in transparency and leveraged actionable data for dissemination.
 	
-* 2020-Present:	Data Science Fellow <br />
-  *Insight, Albuquerque, NM* <br />
+* 2020-Present:	Postdoctoral Data Science Fellow <br />
+  *Insight Data Science, Albuquerque, NM* <br />
 	Description: Developed a data science solution that addressed food insecurity.
 	
 * 2019-2020:	Data Science Intern		<br />
