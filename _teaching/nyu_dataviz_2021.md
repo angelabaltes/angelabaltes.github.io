@@ -1,5 +1,5 @@
 ---
-title: "MHA: Data Visualization (January 2021)"
+title: "MHA: Data Visualization"
 collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/dataviz_2021/ 
