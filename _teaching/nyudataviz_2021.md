@@ -2,7 +2,7 @@
 title: "MHA: Data Visualization"
 collection: teaching
 teaching_type: "Graduate course"
-permalink: /teaching/nyu_dataviz_2021/ 
+permalink: /teaching/nyudataviz_2021/ 
 institution: "New York University, Masters of Health Administration"
 date: 2020-08-31
 excerpt: "<i>Graduate course, Adjunct professor</i><br/>
