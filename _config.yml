@@ -216,10 +216,10 @@ defaults:
       type: teaching
     values:
       layout: single
-      read_time: false
       author_profile: true
-      share: false
+      read_time: false
       comments: false
+      share: false
   # _contact
   - scope:
       path: ""
