@@ -1,10 +1,10 @@
 ---
 title: "MHA: Data Visualization (Spring 2021)"
+date: 2020-08-31
 collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/nyudataviz/ 
 institution: "NYU, Wagner School of Public Service"
-date: 2020-08-31
 excerpt: "<i>Graduate course, Adjunct professor</i><br/>
 Data Visualization is a graduate-level course that students in NYU's Master of Health Administration will take in order to gain practical skills in data visualization."
 ---
