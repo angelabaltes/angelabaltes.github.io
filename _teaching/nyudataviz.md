@@ -1,9 +1,7 @@
 ---
 title: "MHA: Data Visualization"
 collection: teaching
-teaching_type: "Graduate course"
 permalink: /teaching/nyudataviz/ 
-institution: "New York University, Masters of Health Administration"
 date: 2020-09-01
 excerpt: "<i>Graduate course, Adjunct professor</i><br/>
 Data Visualization is a graduate-level course that students in NYU's Master of Health Administration will take in order to gain practical skills in data visualization."
