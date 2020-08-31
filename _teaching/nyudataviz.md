@@ -1,12 +1,10 @@
 ---
-title: "INFO-203: Social Aspects of Information Systems (Spring 2013)"
-collection: teaching
-teaching_type: "Graduate course"
+title: "MHA: Data Visualization (Spring 2021)"
+date: 2020-08-31
+excerpt: "<i>Graduate course, Adjunct professor</i><br/>
+Data Visualization is a graduate-level course that students in NYU's Master of Health Administration will take in order to gain practical skills in data visualization."
 permalink: /teaching/nyudataviz/ 
-institution: "Test"
-date: 2013-01-01
-excerpt: "<i>Graduate course, Teaching assistant</i><br/>
-INFO 203 is a required course for the UC-Berkeley&apos;s Master of Information Management &amp; Systems (MIMS) program, and open to graduate students from all departments."
 ---
+Data Visualization will be a new course offered in Wagner School of Public Service Masters of Health Administration program (Spring 2021) that will focus on these key objectives: 1. Apply best practices in data visualization and storytelling to create data visualizations. 2. Create storyboards to communicate accessible and meaningful insights. 3. Critique data visualizations to become better consumers of data. 4. Demonstrate introductory Tableau skills.
 
-INFO 203 is a required course for the UC-Berkeley&apos;s Master of Information Management &amp; Systems (MIMS) program, and open to graduate students from all departments. The course covers fundamental topics in social informatics, human-computer interaction, and science &amp; technology studies. My duties included: Grading assignments; holding weekly office hours; assisting students with writing and final projects; giving two 1.5 hour lectures per semester. 
+*More information to come. 
