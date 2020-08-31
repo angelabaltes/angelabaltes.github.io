@@ -1,6 +1,6 @@
 ---
 title: "MHA: Data Visualization (Spring 2021)"
-date: 2002-12-14
+date: 2002-01-14
 collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/nyudataviz/ 
