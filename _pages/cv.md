@@ -43,7 +43,7 @@ Employment
 	
 * 2020-Present:	Postdoctoral Data Science Fellow <br />
   *Insight Data Science, Albuquerque, NM* <br />
-	Description: Developed findmyfigurine, a image classification tool thaty allows anime enthusiatsts to upload a photo of a charcater and subsequently locate where to purchase the figurine for that chracter. Collected several million images and trained a Convolutional Neural Network model in Python on AWS EC2. 
+	Description: Developed findmyfigurine, a image classification tool that allows anime enthusiasts to upload a photo of a character and subsequently locate where to purchase the figurine for that character. Collected several million images and trained a Convolutional Neural Network model in Python on AWS EC2. 
 	
 * 2019-2020:	Data Science Intern		<br />
 	*Office of The Director of National Intelligence, Albuquerque, NM* <br />
