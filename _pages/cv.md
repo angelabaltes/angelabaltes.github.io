@@ -43,7 +43,7 @@ Employment
 	
 * 2020-Present:	Postdoctoral Data Science Fellow <br />
   *Insight Data Science, Albuquerque, NM* <br />
-	Description: Developed a data science solution that addressed food insecurity.
+	Description: Developed findmyfigurine, a image classification tool thaty allows anime enthusiatsts to upload a photo of a charcater and subsequently locate where to purchase the figurine for that chracter. Collected several million images and trained a Convolutional Neural Network model in Python on AWS EC2. 
 	
 * 2019-2020:	Data Science Intern		<br />
 	*Office of The Director of National Intelligence, Albuquerque, NM* <br />
@@ -51,7 +51,7 @@ Employment
 		
 * 2017-2018:	Senior Data Analyst		<br />
 	*RESPEC/DataBasis, Albuquerque, NM* <br />
-	Description: Designed geolocation tools from combined datasets to provide visual and quantitative assessments of patient disparities
+	Description: Designed geolocation tools from combined datasets to provide visual and quantitative assessments of patient disparities.
 
 * 2018-2018:	Health Informatics Intern	<br />
 	*Centers for Disease Control and Prevention, Albuquerque, NM* <br />
