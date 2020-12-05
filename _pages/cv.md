@@ -101,6 +101,12 @@ Honors/Awards
 Certificates
 ======
 
+2020	Data Scientist
+	Tableau Software
+	
+2020	Tableau Analyst
+	Tableau Software
+	
 2019	Machine Learning Nanodegree
 	Udacity
 
