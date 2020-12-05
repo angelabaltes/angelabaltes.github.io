@@ -41,9 +41,9 @@ Employment
   *University of New Mexico, Office of Institutional Analytics, Albuquerque, NM* <br />
 	Description: Provided analytical expertise to the university influencing initiatives, strategic planning and resource alignment. Worked on a collaborative team of researchers that developed interactive tools to aid in transparency and leveraged actionable data for dissemination.
 	
-* 2020-Present:	Postdoctoral Data Science Fellow <br />
-  *Insight Data Science, Albuquerque, NM* <br />
-	Description: Developed findmyfigurine, an image classification tool that allows anime enthusiasts to upload a photo of a character and subsequently locate where to purchase the figurine. Collected several million images and trained a Convolutional Neural Network model in Python on AWS EC2. 
+* 2020-Present:	Adjunct Faculty Health Administration <br />
+  *New York University, Wagner Graduate School of Public Service, Remote* <br />
+	Description: Taught Data Visualization with Tableau to students enrolled in NYU's Master of Health Administration program to develop data storytelling skills and knowledge to make data driven decisions in healthcare. Guided students on data visualization fundamentals, best practices, and the ability to leverage data for visual insights.
 	
 * 2019-2020:	Data Science Intern		<br />
 	*Office of The Director of National Intelligence, Albuquerque, NM* <br />
