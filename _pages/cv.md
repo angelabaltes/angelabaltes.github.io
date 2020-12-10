@@ -161,9 +161,6 @@ Publications
   
 Professional Affiliations
 ======
-Association for Computing Machinery
-Membership ID: 6220607
-
 American Medical Informatics Association
 Membership ID: 173936
 
