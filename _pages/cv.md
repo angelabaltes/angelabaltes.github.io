@@ -36,7 +36,7 @@ Azusa Pacific University, Azusa, CA
 Employment
 ======
 
-* 2019-2021: Senior Research Analyst <br />
+* 2021-Present: Senior Research Analyst <br />
   *American Public Education Inc., Office of Strategic Analytics and Research, Remote* <br />
 	Description:
 	
