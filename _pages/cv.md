@@ -37,7 +37,7 @@ Employment
 ======
 
 * 2019-2021: Senior Research Analyst <br />
-  *American Public Education Inc., Office of Straegic Analytics and Research, Remote* <br />
+  *American Public Education Inc., Office of Strategic Analytics and Research, Remote* <br />
 	Description:
 	
 * 2019-2021: Institutional Data Scientist <br />
