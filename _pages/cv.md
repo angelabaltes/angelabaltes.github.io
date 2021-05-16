@@ -36,8 +36,11 @@ Azusa Pacific University, Azusa, CA
 Employment
 ======
 
-
-* 2019-Present:	Institutional Data Scientist <br />
+* 2019-2021: Senior Research Analyst <br />
+  *American Public Education Inc., Office of Straegic Analytics and Research, Remote* <br />
+	Description:
+	
+* 2019-2021: Institutional Data Scientist <br />
   *University of New Mexico, Office of Institutional Analytics, Albuquerque, NM* <br />
 	Description: Provided analytical expertise to the university influencing initiatives, strategic planning and resource alignment. Worked on a collaborative team of researchers that developed interactive tools to aid in transparency and leveraged actionable data for dissemination.
 	
